@@ -1,0 +1,48 @@
+body {
+    height: 100vh;
+    margin: 0;
+    font-family: Georgia;
+    background-color: bisque;
+    gap: 8px;
+    margin: 0;
+    color: gold;
+    display: grid;
+  }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  /* header {
+    grid-area: leo;
+    background-color: #ff9e7a;
+  }
+  
+  footer {
+    grid-area: guess;
+    background-color: #b1fcc8;
+  }
+  
+  aside {
+    grid-area: spaceman;
+    background-color: #ffe07a;
+  }
+  
+  div {
+    grid-area: ltrs;
+    background-color: #bf9df7;
+  }
+
+  header, footer, aside, main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  } */
