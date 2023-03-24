@@ -4,18 +4,39 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="css/styles.css/" rel="stylesheet" type="text/css" />
-
+    <link href="css/styles.css" rel="stylesheet" type="text/css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
+    
     <title>Leo Spaceman!</title>
+    <!-- <button id="start">PLAY</button>
+    <button id="reset">RESET</button> -->
 </head>
 <body>
-<header>Leo!</header>
-<div>Wrong Letters!</div>
-<div>Guessed Letters!</div>
-<div>Spaceman!</div>    
-<div>Letter Bank</div>
-<div>Guess Solution?!</div>
+<header>Leo SpAceMaN!</header>
 
-<script src="js/main.js/"></script>
+<h1 id="winLoss">WINNER WINNER!</h1>
+<h2>HINT: Music Composer of the Past</h2>
+<div id="playarea"></div>
+    <section id="body">
+        <div id="head">Scalp</div>
+        <div id="torso">Bod</div>
+        <div id="lefty">Arm-L</div>
+        <div id="righty">Arm-R</div>
+        <div id="leggy">Leg-L</div>
+        <div id="leggo">Leg-R</div>
+    </section>
+
+<section id="board">
+    <div id="fails">Wrong Letters!</div>
+    <div id="guesses">Guessed Letters!</div>
+    <div id="solved">ANSWERS</div>
+</section>
+<button id="letter">GUESS A LETTER!</button>
+<input id="input1" type="text">
+<button id="solution">SOLVE THE WHOLE SHEBANG?</button>
+<input id="input2" type="text">
+<script src="js/main.js"></script>
 </body>
 </html>
