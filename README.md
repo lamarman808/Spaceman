@@ -11,3 +11,4 @@ Per the button's functionality, EACH guess, right or wrong adds to the bank of g
 The solution button yields a failure for the whole game given the bravado of its use.
 Otherwise, the player has 6 guesses.
 Winning conditions met yields one message in the H1 element made visible, and the same happens with a different message for losses otherwise!
+<img width="797" alt="Screenshot 2023-03-24 at 10 11 01 AM" src="https://user-images.githubusercontent.com/127114542/227545994-81f41574-a7e0-45a3-b3d4-01905e200ad0.png">
