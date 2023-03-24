@@ -1,7 +1,7 @@
 # Spaceman!
-#A novelty title for the age-old game, Hang man!
+A novelty title for the age-old game, Hang man!
 
-#While there is no man hanging, the body should appwar as improper guesses are made!
+While there is no man hanging, the body should appwar as improper guesses are made!
 The Max number of guesses matches the amount of body parts available to reveal.
 
 Like standard Spaceman, the player enters a letter into the input space and clicks the Guess button to enter their guess.
